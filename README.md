@@ -2,7 +2,7 @@
 
 Submitted by: **Yevheniya Solomyana**
 
-This web app: **displays 12 ways how to support Ukraine due to the war**
+This web app: **displays 12 ways how to support Ukraine due to the Russian invasion**
 
 Time spent: **3** hours spent in total
 
