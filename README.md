@@ -22,10 +22,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='Project1_Walkthrough.mov' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Project1_Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Kap 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
