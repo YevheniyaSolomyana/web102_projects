@@ -4,7 +4,7 @@ Submitted by: **Yevheniya Solomyana**
 
 This web app: **displays 5 computer science jokes in a flashcard-format**
 
-Time spent: **4** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
@@ -20,7 +20,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Project2_Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap  
