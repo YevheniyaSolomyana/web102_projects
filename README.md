@@ -1,1 +1,1 @@
-# CodePath: Intermediate (Frontend) Development course (WEB102)
+# CodePath WEB102: Intermediate (Frontend) Development course
